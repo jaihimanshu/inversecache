@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591619929477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "118509636",
+    "id" : "77A7B888",
+    "lastKnownWriteTime" : 1591620539,
+    "last_content_update" : 1591620541087,
+    "path" : "C:/Users/HIMANSHU/Desktop/Coursera/inversecache/cacheinverse.R",
+    "project_path" : "cacheinverse.R",
+    "properties" : {
+        "cursorPosition" : "20,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
